@@ -9,7 +9,6 @@ import android.os.Bundle;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-
     ArrayList<ContactModel>arrContacts = new ArrayList<>();
 
 
